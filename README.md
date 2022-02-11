@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**angelmadames/angelmadames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm 🇩🇴 Dominican.
+- I work as a DevOps Engineer and I'm truly passionate about it.
+- 📫 How to reach me: [Twitter][1], [LinkedIn][2].
+- 📓 I have a [blog][3]. 
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=angelmadames&count_private=true&show_icons=true&include_all_commits=true" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmadames" />
+
+[1]: https://twitter.com/angelmadames
+[2]: https://www.linkedin.com/in/angelmadames
+[3]: angeladames.com
