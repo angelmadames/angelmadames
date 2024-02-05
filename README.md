@@ -7,4 +7,4 @@
 
 [1]: https://twitter.com/angelmadames
 [2]: https://www.linkedin.com/in/angelmadames
-[3]: angeladames.com
+[3]: https://angeladames.com
